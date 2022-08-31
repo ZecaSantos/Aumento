@@ -35,7 +35,7 @@ public class Principal {
 		}
 		
 		else if(sal_atual <= 8000.0) {
-			porcentagem = 10;
+			porcentagem = 5;
 			aumento = sal_atual * porcentagem / 100;
 			novo_sal = sal_atual + aumento;
 
