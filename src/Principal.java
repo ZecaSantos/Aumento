@@ -50,8 +50,7 @@ public class Principal {
 		System.out.println();
 		System.out.printf("Novo Salário: R$ %.2f\n", novo_sal);
 		System.out.printf("Aumento: R$ %.2f\n", aumento);		
-		System.out.printf("Porcentagem: %d %%\n", porcentagem);
-		System.out.println();
+		System.out.printf("Porcentagem: %d %%\n", porcentagem);		
 		System.out.println("Parabéns pelo aumento, você merece!");
 		
 		
